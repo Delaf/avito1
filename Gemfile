@@ -6,4 +6,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
 gem "telegram-bot-ruby"
-gem "nokogiri"
+gem "nokogiri", ">= 1.6.7.rc3"
