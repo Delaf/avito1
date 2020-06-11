@@ -1,1 +1,1 @@
-bot: ruby bot5.rb
+bot: ruby main.rb
